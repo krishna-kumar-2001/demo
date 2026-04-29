@@ -1,1 +1,2 @@
 "Hello Github"
+This message indicates that git pull command used successfully
